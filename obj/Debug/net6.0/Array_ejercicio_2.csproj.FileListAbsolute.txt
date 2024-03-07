@@ -1,0 +1,14 @@
+C:\Users\ELMZ\Desktop\C# ippfm\Array_ejercicio_2\bin\Debug\net6.0\Array_ejercicio_2.exe
+C:\Users\ELMZ\Desktop\C# ippfm\Array_ejercicio_2\bin\Debug\net6.0\Array_ejercicio_2.deps.json
+C:\Users\ELMZ\Desktop\C# ippfm\Array_ejercicio_2\bin\Debug\net6.0\Array_ejercicio_2.runtimeconfig.json
+C:\Users\ELMZ\Desktop\C# ippfm\Array_ejercicio_2\bin\Debug\net6.0\Array_ejercicio_2.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Array_ejercicio_2\bin\Debug\net6.0\Array_ejercicio_2.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Array_ejercicio_2\obj\Debug\net6.0\Array_ejercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMZ\Desktop\C# ippfm\Array_ejercicio_2\obj\Debug\net6.0\Array_ejercicio_2.AssemblyInfoInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Array_ejercicio_2\obj\Debug\net6.0\Array_ejercicio_2.AssemblyInfo.cs
+C:\Users\ELMZ\Desktop\C# ippfm\Array_ejercicio_2\obj\Debug\net6.0\Array_ejercicio_2.csproj.CoreCompileInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Array_ejercicio_2\obj\Debug\net6.0\Array_ejercicio_2.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Array_ejercicio_2\obj\Debug\net6.0\refint\Array_ejercicio_2.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Array_ejercicio_2\obj\Debug\net6.0\Array_ejercicio_2.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Array_ejercicio_2\obj\Debug\net6.0\Array_ejercicio_2.genruntimeconfig.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Array_ejercicio_2\obj\Debug\net6.0\ref\Array_ejercicio_2.dll
